@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background: url("../images/banner.jpg") no-repeat center top;
+	background: url("../images/banner_CVD.jpg") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -646,7 +646,7 @@ h2.resp-accordion {
 }
 .about-imag img {
 	border: 2px solid #ef664d;
-	border-radius: 103px;
+	border-radius: 5px;
 }
 .about-text {
 	float: left;
