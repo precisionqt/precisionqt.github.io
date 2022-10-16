@@ -36,16 +36,6 @@ body{
 	
 	
 }
-.header{
-	background: url("../images/banner_CVD.jpg") no-repeat center top;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-position: center;
-	background-size:cover;
-	min-height: 550px;
-}
 /*.header{
 	background: url("../images/banner_CVD.jpg") no-repeat center top;
 	-webkit-background-size: cover;
@@ -54,14 +44,25 @@ body{
 	background-size: cover;
 	background-position: center;
 	background-size:cover;
-	min-height: 100px;
-	max-height: 400px;
+	min-height: 550px;
 }*/
+.header{
+	background: url("../images/banner_CVD.jpg") no-repeat center top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-size:cover;
+	min-height: 150px;
+	max-height: 500px;
+}
 .header-top {
-	padding-top: 3em;
+	padding-top: 4em;
 }
 .logo{
 	float:left;
+	padding-left: 10em;
 }
 .top-menu{
 	float:right;
